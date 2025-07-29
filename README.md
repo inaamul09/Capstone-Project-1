@@ -9,5 +9,3 @@ I am aware that many potential employers may value CSS skills, but I want to ass
 I encourage viewers to look beyond the lack of CSS in this project and to focus on the overall design and layout. I am confident that this resume is still professional and visually appealing, even without the use of CSS.
 
 Thank you for your time and consideration.
-
-This project is affliated with Udemy Course Content
